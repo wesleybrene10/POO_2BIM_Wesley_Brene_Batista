@@ -92,4 +92,4 @@ Execute `mvn test`. Os testes em `ConsultaServiceTest` usam mocks e verificam re
 
 ## IA e responsabilidade acadêmica
 
-Parte do projeto foi produzida com auxílio de **ChatGPT (OpenAI)**. Leia e revise o código, execute testes e registre honestamente no relatório sugestões adotadas, verificações e modificações. O professor pode questionar individualmente qualquer classe ou método.
+Parte do projeto foi produzida com auxílio de **ChatGPT (OpenAI)**.
